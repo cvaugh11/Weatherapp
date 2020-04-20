@@ -1,0 +1,22 @@
+{
+  "name": "openweather",
+  "version": "1.0.0",
+  "description": "OpenWeather App",
+  "main": "moment-timezone-with-data.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvaugh11/Weatherapp.git"
+  },
+  "author": "Carlton Vaughn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvaugh11/Weatherapp/issues"
+  },
+  "homepage": "https://github.com/cvaugh11/Weatherapp#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
